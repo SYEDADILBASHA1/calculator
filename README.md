@@ -1,5 +1,5 @@
 # calculator
-# Ex.08 Design of a Standard Calculator
+#  Design of a Standard Calculator
 
 ## AIM:
 To design a standard calculator
